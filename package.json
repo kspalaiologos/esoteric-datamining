@@ -9,6 +9,8 @@
   "author": "Palaiologos",
   "license": "CC0",
   "dependencies": {
-    "markov": "0.0.7"
+    "cbor": "^5.1.0",
+    "irc": "^0.5.2",
+    "underscore": "~1.7.0"
   }
 }
